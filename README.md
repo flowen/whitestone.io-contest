@@ -3,11 +3,11 @@ whitestone.io contest submisison
 
 Not the most interesting work, but maybe rather an interesting story. Though I do have experience with Processing (see instagram.com/flowen_nl for some audioreactive visuals) I have never worked with THREE.js before, nor with webGL or the webAudio API.
 
-I had no clue how to work with vertices, faces, geometry and such and was traveling with my girlfriend from Nepal to Bangladesh. While absorbing the culture shock, being delayed continuously (taxi’s failing to understand where to bring you), the idea of the contest would give me focus and energy to keep pursue’ing this. 
+I had no clue how to work with THREE.js, es6 and the webaudio API. Let alone what faces are, all the differences in materials, etc.. Meanwhile I was traveling with my girlfriend from Nepal to Bangladesh. While absorbing the culture shock, being delayed continuously (taxi’s failing to understand where to bring you), the pressure of participating in the contest would give me focus and energy to keep pursue’ing this. 
 
-So I would say it’s a crazy learning-experience and I’ll definitely continue creating 3d in the browser and hopefully VR in the future as well :)
+It was a crazy learning-experience and I’ll definitely continue creating 3d in the browser and hopefully VR in the future as well :) Next up is learning to use shaders, 
 
-Special thanks to superGuiGui for this three.js.starterkit and the people in create-dev slack for answering my questions. 
+Special thanks to superGuiGui for this three.js.starterkit, which gave me a good boost and the people in create-dev slack for answering my questions. 
 
 
 After cloning install all node dependencies:
