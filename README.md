@@ -1,7 +1,9 @@
 whitestone.io contest submisison
 ===================
 
-Not the most interesting work, but maybe rather an interesting story. Though I do have experience with Processing (see instagram.com/flowen_nl for some audioreactive visuals) I have never worked with THREE.js before, nor with webGL or the webAudio API.
+Not the most interesting work, but maybe rather an interesting story. Though I do have experience with Processing (see 
+[my Instagram](http://instagram.com/flowen_nl)
+ for some audioreactive visuals) I have never worked with THREE.js before, nor with webGL or the webAudio API.
 
 I had no clue how to work with THREE.js, es6 and the webaudio API. Let alone what faces are, all the differences in materials, etc.. Meanwhile I was traveling with my girlfriend from Nepal to Bangladesh. While absorbing the culture shock, being delayed continuously (taxi’s failing to understand where to bring you), the pressure of participating in the contest would give me focus and energy to keep pursue’ing this. 
 
